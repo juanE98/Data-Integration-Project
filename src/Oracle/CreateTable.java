@@ -1,18 +1,82 @@
 package Oracle;
 
 public class CreateTable {
+    public static void main(String[] args) {
+        //create tables in Oracle Databse
+    }
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		DBConnection.OpenConnection();
-		String create = "CREATE TABLE RESTAURANT("
-				+ "ID NUMBER NOT NULL,"
-				+ "NAME VARCHAR2(100 BYTE) NOT NULL,"
-				+ "ADDRESS VARCHAR2(255 BYTE) NOT NULL,"
-				+ "CITY VARCHAR2(50 BYTE) NOT NULL,"
-				+ "CONSTRAINT RESTAURANT_PK PRIMARY KEY(ID) ENABLE)";
-		DBConnection.ExecuteUpdate(create);
-		DBConnection.CloseConnection();
-	}
+    private static void createBook3() {
+        DBConnection.OpenConnection();
+        String create = "CREATE TABLE BOOK3("
+                + "ID NUMBER NOT NULL,"
+                + "TITLE VARCHAR2(300 BYTE) NOT NULL,"
+                + "AUTHOR1 VARCHAR2(150 BYTE),"
+                + "AUTHOR2 VARCHAR2(150 BYTE),"
+                + "AUTHOR3 VARCHAR2(150 BYTE),"
+                + "PUBLISHER VARCHAR2(100 BYTE),"
+                + "ISBN13 VARCHAR2(26 BYTE),"
+                + "PUBLISHDATE VARCHAR2(100 BYTE),"
+                + "PAGES NUMBER,"
+                + "PRODUCTDIMENSIONS VARCHAR2(100 BYTE),"
+                + "SALESRANK NUMBER,"
+                + "RATINGSCOUNT NUMBER,"
+                + "RATINGVALUE REAL,"
+                + "PAPERBACKPRICE VARCHAR2(100 BYTE),"
+                + "HARDCOVERPRICE VARCHAR2(100 BYTE),"
+                + "EBOOKPRICE VARCHAR2(100 BYTE),"
+                + "AUDIOBOOKPRICE VARCHAR2(100 BYTE),"
+                + "CONSTRAINT BOOK3_PK PRIMARY KEY(ID) ENABLE)";
+        DBConnection.ExecuteUpdate(create);
+        DBConnection.CloseConnection();
+    }
 
+     private static void createBook1() {
+         DBConnection.OpenConnection();
+         String create = "CREATE TABLE BOOK3("
+                 + "ID NUMBER NOT NULL,"
+                 + "TITLE VARCHAR2(300 BYTE) NOT NULL,"
+                 + "AUTHOR1 VARCHAR2(150 BYTE),"
+                 + "AUTHOR2 VARCHAR2(150 BYTE),"
+                 + "AUTHOR3 VARCHAR2(150 BYTE),"
+                 + "PUBLISHER VARCHAR2(100 BYTE),"
+                 + "ISBN13 VARCHAR2(26 BYTE),"
+                 + "PUBLISHDATE VARCHAR2(100 BYTE),"
+                 + "PAGES NUMBER,"
+                 + "PRODUCTDIMENSIONS VARCHAR2(100 BYTE),"
+                 + "SALESRANK NUMBER,"
+                 + "RATINGSCOUNT NUMBER,"
+                 + "RATINGVALUE REAL,"
+                 + "PAPERBACKPRICE VARCHAR2(100 BYTE),"
+                 + "HARDCOVERPRICE VARCHAR2(100 BYTE),"
+                 + "EBOOKPRICE VARCHAR2(100 BYTE),"
+                 + "AUDIOBOOKPRICE VARCHAR2(100 BYTE),"
+                 + "CONSTRAINT BOOK3_PK PRIMARY KEY(ID) ENABLE)";
+         DBConnection.ExecuteUpdate(create);
+         DBConnection.CloseConnection();
+     }
+
+    private static void createBook2() {
+        DBConnection.OpenConnection();
+        String create = "CREATE TABLE BOOK3("
+                + "ID NUMBER NOT NULL,"
+                + "TITLE VARCHAR2(300 BYTE) NOT NULL,"
+                + "AUTHOR1 VARCHAR2(150 BYTE),"
+                + "AUTHOR2 VARCHAR2(150 BYTE),"
+                + "AUTHOR3 VARCHAR2(150 BYTE),"
+                + "PUBLISHER VARCHAR2(100 BYTE),"
+                + "ISBN13 VARCHAR2(26 BYTE),"
+                + "PUBLISHDATE VARCHAR2(100 BYTE),"
+                + "PAGES NUMBER,"
+                + "PRODUCTDIMENSIONS VARCHAR2(100 BYTE),"
+                + "SALESRANK NUMBER,"
+                + "RATINGSCOUNT NUMBER,"
+                + "RATINGVALUE REAL,"
+                + "PAPERBACKPRICE VARCHAR2(100 BYTE),"
+                + "HARDCOVERPRICE VARCHAR2(100 BYTE),"
+                + "EBOOKPRICE VARCHAR2(100 BYTE),"
+                + "AUDIOBOOKPRICE VARCHAR2(100 BYTE),"
+                + "CONSTRAINT BOOK3_PK PRIMARY KEY(ID) ENABLE)";
+        DBConnection.ExecuteUpdate(create);
+        DBConnection.CloseConnection();
+    }
 }
