@@ -53,6 +53,28 @@ public class DBConnection {
         }
     }
 
+    public static Book[] ExecuteQuery(String query) {
+        List<Book> bookList = new ArrayList<>();
+        try {
+            ResultSet rs = stmt.executeQuery(query);
+            while (rs.next()) {
+                int id = rs.getInt(1);
+                String title = rs.getString(2);
+                Book book = new Book(id, title, null, null, null, null);
+                bookList.add(book);
+            }
+
+        } catch (Exception e) {
+            System.out.println(e);
+        }
+        Book[] books = new Book[bookList.size()];
+        Iterator<Book> it = bookList.iterator();
+        for (int i =0; i < bookList.size(); i++) {
+            books[i] = it.next();
+        }
+        return books;
+    }
+
     public static book3[] ExecuteQueryBook3(String query) {
         List<book3> bookList = new ArrayList<>();
         try {

@@ -5,44 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="504a195c-163d-4567-be6f-eba9b8a2bda1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INFS3200_Assignment-.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/book3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/JaccardLinkage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/Measurement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/Similarity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignmentAnswers.docx" beforeDir="false" afterPath="$PROJECT_DIR$/assignmentAnswers.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Data/CSVLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Data/DataStatistics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Data/Measurement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Data/NestedLoopByName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Data/NestedLoopByNameED.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Data/NestedLoopByNameJaccard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Data/Restaurant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Data/Similarity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Oracle/CreateTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Oracle/DBConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Oracle/DeleteTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Oracle/DropTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Oracle/InsertTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataLinkageProject_java/Oracle/ReadTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/CSVLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/DataStatistics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/Measurement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/NestedLoopByName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/NestedLoopByNameED.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/NestedLoopByNameJaccard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/Restaurant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/Similarity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Data/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Data/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/CreateTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/CreateTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/DBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/DBConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/InsertTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/InsertTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oracle/CreateTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oracle/CreateTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oracle/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oracle/DBConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oracle/DeleteTable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oracle/DropTable.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oracle/InsertTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oracle/InsertTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oracle/ReadTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$signmentAnswers.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$signmentAnswers.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~WRL0005.tmp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,26 +53,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CSSE2002/s4431796/ass2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.1321004" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.Q6">
-    <configuration name="CSVLoader_book3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data.CSVLoader_book3" />
-      <module name="INFS3200_Assignment-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Data.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JaccardLinkage">
     <configuration name="CreateTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oracle.CreateTable" />
       <module name="INFS3200_Assignment-" />
@@ -122,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JaccardLinkage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data.JaccardLinkage" />
+      <module name="INFS3200_Assignment-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Data.Q6" />
       <module name="INFS3200_Assignment-" />
@@ -135,12 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="jacc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data.jacc" />
+      <module name="INFS3200_Assignment-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q6" />
+        <item itemvalue="Application.JaccardLinkage" />
         <item itemvalue="Application.InsertTable" />
         <item itemvalue="Application.CreateTable" />
-        <item itemvalue="Application.CSVLoader_book3" />
+        <item itemvalue="Application.Q6" />
+        <item itemvalue="Application.jacc" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +164,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
           <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="28" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

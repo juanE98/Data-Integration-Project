@@ -27,7 +27,6 @@ public class Book {
         return title;
     }
 
-
     public String getPublication_date() {
         return publication_date;
     }
