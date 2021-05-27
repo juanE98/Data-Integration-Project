@@ -4,9 +4,12 @@ import java.io.*;
 
 public class InsertTable {
     public static void main(String[] args) {
-
+        //Inserts values to each table
     }
 
+    /**
+     * Inserts values for Book1
+     */
     private static void book1Values() {
         DBConnection.OpenConnection();
         try {
@@ -33,6 +36,9 @@ public class InsertTable {
         DBConnection.CloseConnection();
     }
 
+    /**
+     * Inserts values for Book2
+     */
     private static void book2Values() {
         DBConnection.OpenConnection();
         try {
@@ -59,6 +65,9 @@ public class InsertTable {
         DBConnection.CloseConnection();
     }
 
+    /**
+     * Inserts values for Book3
+     */
     private static void book3Values() {
         DBConnection.OpenConnection();
         try {

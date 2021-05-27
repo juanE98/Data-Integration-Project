@@ -1,5 +1,8 @@
 package Data;
 
+/**
+ * Class representing Book3 values
+ */
 public class book3 extends Book {
     private String author1;
     private String author2;

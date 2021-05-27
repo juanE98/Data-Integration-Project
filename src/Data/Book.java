@@ -1,5 +1,8 @@
 package Data;
 
+/**
+ *  Superclass representing a Book.
+ */
 public class Book {
     private int id;
     private String title;

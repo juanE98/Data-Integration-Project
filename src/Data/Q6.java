@@ -24,6 +24,11 @@ public class Q6 {
 
     }
 
+    /**
+     * Returns the number of NULL fields contained within the records.
+     * @param books records selected in Book3
+     * @return total number of NULL fields
+     */
     private static int nullFields(book3[] books) {
         int nullCounter = 0;
         for (int i = 0; i < books.length; i++) {
