@@ -42,7 +42,7 @@ public class CreateTable {
          DBConnection.OpenConnection();
          String create = "CREATE TABLE BOOK1("
                  + "ID NUMBER NOT NULL,"
-                 + "TITLE VARCHAR2(300 BYTE) NOT NULL,"
+                 + "TITLE VARCHAR2(300 BYTE),"
                  + "CONSTRAINT BOOK1_PK PRIMARY KEY(ID) ENABLE)";
          DBConnection.ExecuteUpdate(create);
          DBConnection.CloseConnection();
@@ -55,7 +55,7 @@ public class CreateTable {
         DBConnection.OpenConnection();
         String create = "CREATE TABLE BOOK2("
                 + "ID NUMBER NOT NULL,"
-                + "TITLE VARCHAR2(300 BYTE) NOT NULL,"
+                + "TITLE VARCHAR2(300 BYTE),"
                 + "CONSTRAINT BOOK2_PK PRIMARY KEY(ID) ENABLE)";
         DBConnection.ExecuteUpdate(create);
         DBConnection.CloseConnection();

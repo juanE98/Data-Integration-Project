@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="504a195c-163d-4567-be6f-eba9b8a2bda1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Data/JaccardLinkage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Measurement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Similarity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignmentAnswers.docx" beforeDir="false" afterPath="$PROJECT_DIR$/assignmentAnswers.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Data/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Data/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/CreateTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/CreateTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/DBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/DBConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/InsertTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFS3200_Assignment-/Oracle/InsertTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignmentAnswers.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oracle/CreateTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oracle/CreateTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oracle/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oracle/DBConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oracle/InsertTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oracle/InsertTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$signmentAnswers.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$signmentAnswers.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~WRL0005.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$signmentAnswers.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
